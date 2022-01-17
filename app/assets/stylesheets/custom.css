@@ -10,8 +10,6 @@
 
 #logo {
     color: #fff;
-    text-transform: uppercase;
-    letter-spacing: -1px;
     font-size: 1.7em;
     float: left;
     font-weight: bold;
@@ -40,4 +38,12 @@ html, body {
 
 #sticky-footer {
     flex-shrink: 0;
+}
+
+.link {
+    text-decoration: none;
+}
+
+.link-align {
+    text-align: center;
 }
